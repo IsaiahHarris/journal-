@@ -97,6 +97,16 @@ header h1 {
   margin:0px 300px;
   margin-top: 10px;
   }
+   #noin {
+  background-color: #89818A;
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  padding: 20px;
+  width: 700px;
+  height: 310;
+  margin:0px 300px;
+  margin-top: 10px;
+  }
 #sidebar {
   position:relative;
   top:0;
